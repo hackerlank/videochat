@@ -143,7 +143,7 @@ a.follow {padding:2px 5px;color:#fff;background:#4598da;text-decoration:none;}
 .roomList dd {float:left;margin-left:10px;width:208px;height:75px;}
 
 .live {padding:15px 0;height:43px;border-bottom:#ddd 1px solid;}
-.btn-live {margin:0 auto;width:141px;height:43px;background:url(main.jpg) -260px 0;display:block;}
+.btn-live {margin:0 auto;width:141px;height:43px;background:url(main.jpg) -290px 0;display:block;}
 h4 {font-weight:bold;font-size:16px;color:#999;line-height:30px;position:relative;}
 h4 b {font:bold 16px Arial, Helvetica, sans-serif;color:#c00;line-height:30px;}
 .weekPayTab {height:30px;line-height:30px;top:0;right:0;}
@@ -216,7 +216,7 @@ dl.gifts dd span {padding-right:5px;height:20px;line-height:20px;background:url(
 .roomAct li {float:left;padding:0 2px;height:28px;line-height:28px;}
 .roomAct li span {height:26px;border:#909090 1px solid;display:block;}
 .roomAct li span i {float:left;height:26px;line-height:26px;text-align:center;display:block;overflow:hidden}
-.roomAct li span em {float:right;width:16px;height:26px;background:url(main.jpg) -260px -50px;cursor:pointer}
+.roomAct li span em {float:right;width:16px;height:26px;background:url(main.jpg) -290px -50px;cursor:pointer}
 .roomAct li.giftsNum {width:60px;}
 .roomAct li.giftsNum span i {width:40px;}
 .roomAct li.giftsName {width:120px;}
